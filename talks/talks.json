@@ -1,0 +1,54 @@
+[
+  {
+    "id": 3298024010580686159,
+    "event_type": "hipotalks",
+    "date": "2019-11-14",
+    "slots": [
+      {
+        "id": 3299290887340642639,
+        "user": {
+          "id": 3299290645488767559,
+          "first_name": "Asra",
+          "last_name": "Kurt",
+          "email": "asra@hipo.biz"
+        },
+        "presentation": null,
+        "status": "fail"
+      },
+      {
+        "id": 3298024035038248379,
+        "user": {
+          "id": 3298023923977970695,
+          "first_name": "hacer",
+          "last_name": "",
+          "email": "hacer@hipo.biz"
+        },
+        "presentation": {
+          "id": 3298024065038336339,
+          "title": "test",
+          "slide_link": "www.google.com",
+          "video_link": ""
+        },
+        "status": "did-the-presentation"
+      }
+    ]
+  },
+  {
+    "id": 3299290567200806703,
+    "event_type": "townhall",
+    "date": "2020-01-23",
+    "slots": [
+      {
+        "id": 3299290677995482192,
+        "user": {
+          "id": 3299290645488767559,
+          "first_name": "Asra",
+          "last_name": "Kurt",
+          "email": "asra@hipo.biz"
+        },
+        "presentation": null,
+        "status": null
+      }
+    ]
+  }
+]

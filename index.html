@@ -1,0 +1,44 @@
+<html>
+
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+
+  <title>Hipotalks</title>
+
+  <link rel="stylesheet" type="text/css" href="styles/main.css" />
+  <link href="https://fonts.googleapis.com/css?family=Source+Sans+Pro:400,600&display=swap" rel="stylesheet">
+
+  <script src="https://ajax.googleapis.com/ajax/libs/jquery/3.4.1/jquery.min.js"></script>
+
+  <script type="text/javascript" src="utils/utils.js"></script>
+</head>
+
+<body>
+  <div class="page">
+    <div class="page-header">
+      <p class="page-header-title">
+        <span class="page-header-title-part-one">hipo</span><span class="page-header-title-part-two">talks</span>
+      </p>
+
+      <a href="https://zoom.us/j/105444396" target="_blank" class="page-header-icon-link">
+        <img src="images/zoom.png" class="page-header-icon" alt="Zoom icon">
+      </a>
+    </div>
+
+    <div class="page-body" id="page-body">
+      <!-- <button class="page-body-load-previous-weeks-button">
+          PREVIOUS WEEKS
+          <img src="images/up-chevron.png" class="page-body-load-previous-weeks-button-icon" alt="up-chevron">
+        </button> -->
+    </div>
+  </div>
+</body>
+
+</html>
+
+<script>
+  $.getJSON("talks/talks.json", function(talks) {
+    loadEvents(talks);
+  });
+</script>
