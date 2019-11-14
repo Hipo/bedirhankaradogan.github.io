@@ -5,22 +5,19 @@
       {
         "user": {
           "first_name": "Omer",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Ediz",
-          "last_name": "",
-          
+          "last_name": "" 
         }
       },
       {
         "user": {
           "first_name": "Goktug",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
@@ -38,15 +35,13 @@
       {
         "user": {
           "first_name": "Sevgi",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Yigit",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
@@ -57,22 +52,19 @@
       {
         "user": {
           "first_name": "Salih",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Fergal",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Arzu",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
@@ -83,22 +75,19 @@
       {
         "user": {
           "first_name": "Eray",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Ali",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Salih",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
@@ -109,22 +98,19 @@
       {
         "user": {
           "first_name": "Asra",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Ozan",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Hacernur",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
@@ -135,22 +121,19 @@
       {
         "user": {
           "first_name": "Baran",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Bilge",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Goksel",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
@@ -161,22 +144,19 @@
       {
         "user": {
           "first_name": "Mucahit",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Serkan",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Bedirhan",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
@@ -187,22 +167,19 @@
       {
         "user": {
           "first_name": "Taylan",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Berkan",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Efe",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
@@ -213,22 +190,19 @@
       {
         "user": {
           "first_name": "Kaan",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Sinan",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Tahir",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
@@ -239,22 +213,19 @@
       {
         "user": {
           "first_name": "Omerfaruk",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Ozge",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Omurden",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
@@ -265,25 +236,21 @@
       {
         "user": {
           "first_name": "Yasin",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Burak",
-          "last_name": "",
-          
+          "last_name": ""
         }
       },
       {
         "user": {
           "first_name": "Tolga",
-          "last_name": "",
-          
+          "last_name": ""
         }
       }
     ]
-  },
-  
+  }
 ]
