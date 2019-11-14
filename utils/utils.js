@@ -70,10 +70,11 @@ function loadEvents(events){
       var now = new Date();
       var dateDiff = dateDiffAsDay(now, eventDate);
       var eventItemClassName = ''
-      
-      if (dateDiff > 7) {
+      if (dateDiff >= 6) {
         eventItemClassName = "page-body-week-list-item-next-weeks";
-      } else if (dateDiff >0) {
+      } else if (dateDiff >=0) {
+
+      console.log(dateDiff)
         eventItemClassName = "page-body-week-list-item-this-week";
       } else {
         eventItemClassName= ""
