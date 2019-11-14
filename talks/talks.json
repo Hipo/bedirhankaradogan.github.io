@@ -1,54 +1,289 @@
 [
   {
-    "id": 3298024010580686159,
-    "event_type": "hipotalks",
     "date": "2019-11-14",
     "slots": [
       {
-        "id": 3299290887340642639,
         "user": {
-          "id": 3299290645488767559,
-          "first_name": "Asra",
-          "last_name": "Kurt",
-          "email": "asra@hipo.biz"
-        },
-        "presentation": null,
-        "status": "fail"
+          "first_name": "Omer",
+          "last_name": "",
+          
+        }
       },
       {
-        "id": 3298024035038248379,
         "user": {
-          "id": 3298023923977970695,
-          "first_name": "hacer",
+          "first_name": "Ediz",
           "last_name": "",
-          "email": "hacer@hipo.biz"
-        },
-        "presentation": {
-          "id": 3298024065038336339,
-          "title": "test",
-          "slide_link": "www.google.com",
-          "video_link": ""
-        },
-        "status": "did-the-presentation"
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Goktug",
+          "last_name": "",
+          
+        }
       }
     ]
   },
   {
-    "id": 3299290567200806703,
-    "event_type": "townhall",
-    "date": "2020-01-23",
+    "date": "2019-11-21",
     "slots": [
       {
-        "id": 3299290677995482192,
         "user": {
-          "id": 3299290645488767559,
-          "first_name": "Asra",
-          "last_name": "Kurt",
-          "email": "asra@hipo.biz"
-        },
-        "presentation": null,
-        "status": null
+          "first_name": "Cem",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Sevgi",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Yigit",
+          "last_name": "",
+          
+        }
       }
     ]
-  }
+  },
+  {
+    "date": "2019-11-28",
+    "slots": [
+      {
+        "user": {
+          "first_name": "Salih",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Fergal",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Arzu",
+          "last_name": "",
+          
+        }
+      }
+    ]
+  },
+  {
+    "date": "2019-12-05",
+    "slots": [
+      {
+        "user": {
+          "first_name": "Eray",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Ali",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Salih",
+          "last_name": "",
+          
+        }
+      }
+    ]
+  },
+  {
+    "date": "2019-12-12",
+    "slots": [
+      {
+        "user": {
+          "first_name": "Asra",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Ozan",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Hacernur",
+          "last_name": "",
+          
+        }
+      }
+    ]
+  },
+  {
+    "date": "2019-12-19",
+    "slots": [
+      {
+        "user": {
+          "first_name": "Baran",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Bilge",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Goksel",
+          "last_name": "",
+          
+        }
+      }
+    ]
+  },
+  {
+    "date": "2019-12-26",
+    "slots": [
+      {
+        "user": {
+          "first_name": "Mucahit",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Serkan",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Bedirhan",
+          "last_name": "",
+          
+        }
+      }
+    ]
+  },
+  {
+    "date": "2020-01-02",
+    "slots": [
+      {
+        "user": {
+          "first_name": "Taylan",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Berkan",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Efe",
+          "last_name": "",
+          
+        }
+      }
+    ]
+  },
+  {
+    "date": "2020-01-09",
+    "slots": [
+      {
+        "user": {
+          "first_name": "Kaan",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Sinan",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Tahir",
+          "last_name": "",
+          
+        }
+      }
+    ]
+  },
+  {
+    "date": "2019-11-14",
+    "slots": [
+      {
+        "user": {
+          "first_name": "Omerfaruk",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Ozge",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Omurden",
+          "last_name": "",
+          
+        }
+      }
+    ]
+  },
+  {
+    "date": "2020-01-16",
+    "slots": [
+      {
+        "user": {
+          "first_name": "Yasin",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Burak",
+          "last_name": "",
+          
+        }
+      },
+      {
+        "user": {
+          "first_name": "Tolga",
+          "last_name": "",
+          
+        }
+      }
+    ]
+  },
+  
 ]
