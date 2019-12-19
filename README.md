@@ -1,2 +1,2 @@
-# hipotalks.github.io
+# hipotalks
 HipoTalks schedule app
